@@ -24,7 +24,6 @@
 ## 🚀 주요 기능 (MVP)
 
 ### 1. 사용자 온보딩 (5단계)
-<img src="docs/images/onboarding-flow.png" alt="온보딩 플로우" width="800">
 
 - 기본 정보 입력 (이름, 학년)
 - 현재 성적 입력 (과목별)
@@ -33,7 +32,6 @@
 - AI 캐릭터 선택 (3종)
 
 ### 2. AI 기반 자동 목표 분해 ⭐ **핵심 차별화**
-<img src="docs/images/ai-goal-decomposition.png" alt="AI 목표 분해" width="800">
 
 **입력**: "수학 70점 → 90점"
 **AI 자동 분해**:
@@ -42,14 +40,12 @@
 - 응답 시간: 5초 이내
 
 ### 3. 일일 퀘스트 제공 및 진도 추적
-<img src="docs/images/home-screen.png" alt="홈 화면" width="400">
 
 - 오늘의 퀘스트 3-5개 표시
 - 체크박스로 즉시 완료 표시
 - 일일/주간/전체 진도율 시각화
 
 ### 4. AI 캐릭터 동반자 (3종)
-<img src="docs/images/ai-characters.png" alt="AI 캐릭터" width="800">
 
 - **캐릭터 A**: 엄근진 멘토형 (30대 입시 컨설턴트, 데이터 기반 조언)
 - **캐릭터 B**: 공감 친구형 (20대 재수 성공 선배, 공감 능력)
@@ -250,7 +246,6 @@ npx react-native run-android
 - [x] 시스템 아키텍처 설계
 - [x] 데이터베이스 스키마 설계
 - [x] API 명세서 작성
-- [x] 와이어프레임 디자인 (12개 화면)
 - [x] AI 프롬프트 엔지니어링 (GPT-4o)
 
 ### 진행 중 🔄
